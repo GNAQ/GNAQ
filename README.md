@@ -2,7 +2,7 @@ Hello, I am GNAQ from China, you can find me by this ID on various platforms.
 
 Currently I'm majoring CS in Harbin Institute of Technology. I also participate in CCPC & ICPC contests.
 
-Contact me via mailto:no1061234176@outlook.com or mailto:win1061234176@gmail.com
+Contact me via no1061234176@outlook.com or win1061234176@gmail.com
 
 There's a few repos or projects I'm working on:
 
