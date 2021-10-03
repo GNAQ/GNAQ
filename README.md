@@ -1,4 +1,14 @@
-### Hi there 👋
+Hello, I am GNAQ from China, you can find me by this ID on various platforms.
+
+Currently I'm majoring CS in Harbin Institute of Technology. I also participate in CCPC & ICPC contests.
+
+Contact me via mailto:no1061234176@outlook.com or mailto:win1061234176@gmail.com
+
+There's a few repos or projects I'm working on:
+
+https://github.com/CN-missemi/CN_missemi
+
+
 
 <!--
 **GNAQ/GNAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
