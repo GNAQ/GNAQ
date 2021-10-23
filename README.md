@@ -6,8 +6,6 @@ I am no good at writing codes, so there's nothing worth to talk about.
 
 Contact me via no1061234176@outlook.com or win1061234176@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 There's a few repos or projects I'm working on:
 
 https://github.com/CN-missemi/CN_missemi
