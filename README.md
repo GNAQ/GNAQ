@@ -10,7 +10,7 @@ There's a few repos or projects I'm working on:
 
 https://github.com/CN-missemi/CN_missemi
 
-Big fan of [Lucia](https://www.youtube.com/c/Luciaaa_Sings) and Mimi_N(https://www.patreon.com/mimi_n/posts). 
+Big fan of [Lucia](https://www.youtube.com/c/Luciaaa_Sings) and [Mimi_N](https://www.patreon.com/mimi_n/posts). 
 
 <!--
 **GNAQ/GNAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
