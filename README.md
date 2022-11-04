@@ -1,4 +1,4 @@
-Hello, there's GNAQ / CN, I'm using GNAQ as ID on almost every platform.
+Hello, here's GNAQ / cn. I'm using GNAQ as ID on almost every platform.
 
 Currently I'm majoring Software Engineering at HIT. I also participate in competitive programming contests.
 
