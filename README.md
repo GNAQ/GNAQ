@@ -1,6 +1,6 @@
 Hello, here's GNAQ / cn. I'm using GNAQ as ID on almost every platform.
 
-Currently I'm majoring Software Engineering at HIT. I also participate in competitive programming contests.
+Currently I'm majoring Software Engineering at HIT. I participated in competitive programming contests at past.
 
 I am no good at writing code.
 
