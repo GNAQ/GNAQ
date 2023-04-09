@@ -1,13 +1,17 @@
-Hello my friend. Here's me, using GNAQ as my ID on almost every platform.
+EN || [中文简介](https://github.com/GNAQ/GNAQ/blob/main/README_cn.md)
 
-Currently I'm majoring Software Engineering at HIT. I participated in competitive programming contests at past.
+Hi there. I'm GNAQ, using this ID on almost every mainstream online platform. Contact me via [GNAQ33@outlook.com](mailto:gnaq33@outlook.com)
 
-I am no good at writing code.
+I'm majoring Software Engineering as an undergraduate at Harbin Institute of Technology. I was once a <ins>competitive programming contestant</ins> ([Code Archive](https://github.com/GNAQ/Algorithm-Contest-Archive) / [35th pl. CCPCWeihai](https://board.xcpcio.com/ccpc/8th/weihai?group=%E6%AD%A3%E5%BC%8F%E9%98%9F%E4%BC%8D)). It's a mixture of feelings for me to say that I didn't get notable awards on these contests of algorithms.
+Currently I'm an <ins>Ads Infra System Architecture</ins> Dev Intern @ByteDance.
 
-Some little fragments I'm working on:
+I'm interested in Operating System, Deep Learning and Distributed Computing. Feel free to discuss with me and please don't hesitate to give any advice!
 
-https://github.com/CN-missemi/CN_missemi
+---
 
-Big fan of [Lucia](https://www.youtube.com/c/Luciaaa_Sings) and [Mimi_N](https://www.patreon.com/mimi_n/posts). 
+Some little fragments I'm working on: [The Missing Semester - Chinese Version](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
 
-Contact Me: no1061234176@outlook.com 
+> - The Missing Semester is an open course offered by MIT, which mainly focus on practical skills, engineering habits, effective tools and other critical capabilities for a new student working on computers. <ins>Getting hands dirty</ins> on practical works is as important as any other knowledge like discrete maths, algirithms and formal languages.
+> - "A gist of books" is a book and document list arranged by myself, putting books I consider to be easy and quick to learn but without losing expertise. I would not prefer to read large and long books alone, missing positive feedback.
+
+I have a lot of life interests besides. Welcome to talk about them with me: [osu!](https://osu.ppy.sh/users/13200045) || [Bangumi](https://bgm.tv/user/gnaq)
