@@ -6,7 +6,7 @@
 
 ---
 
-目前我正做的项目：[The Missing Semester - 中文制作](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
+我正做的项目：[The Missing Semester - 中文制作](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
 
 > - The Missing Semester（计算机教育缺失的一课）是 MIT 的一门公开课，主要聚焦于计算机新生的实践思维、工程习惯、工具效率等综合基础能力。<ins>Getting hands dirty</ins> 也是计算机专业需要的能力，不亚于离散数学、计算算法和形式语言。
 > - A gist of books 是我整理的一张书籍文档清单，收录了我认为快速又不失精确的专业知识书。我不喜欢<ins>自读大部头书</ins>来入门任何知识体系、工具方法，因其缺少有效反馈。
