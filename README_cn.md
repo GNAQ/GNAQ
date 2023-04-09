@@ -1,6 +1,6 @@
 你好，我是 GNAQ。在主流的平台上我都会用这个 ID。联系邮箱：[GNAQ33@outlook.com](mailto:gnaq33@outlook.com)
 
-我目前就读于哈尔滨工业大学软件工程专业本科。我曾参加过各类<ins>算法竞赛</ins>（[代码存档](https://github.com/GNAQ/Algorithm-Contest-Archive) : [35th pl. CCPCWeihai](https://board.xcpcio.com/ccpc/8th/weihai?group=%E6%AD%A3%E5%BC%8F%E9%98%9F%E4%BC%8D)），但我未能取得较为瞩目的奖项，故很抱歉难以详明。我正在字节跳动 <ins>Ads Infra 系统架构开发</ins>岗位实习。
+我目前就读于哈尔滨工业大学软件工程专业本科。我曾参加过各类<ins>算法竞赛</ins>（[代码存档](https://github.com/GNAQ/Algorithm-Contest-Archive) / [35th pl. CCPCWeihai](https://board.xcpcio.com/ccpc/8th/weihai?group=%E6%AD%A3%E5%BC%8F%E9%98%9F%E4%BC%8D)），但我未能取得较为瞩目的奖项，故很抱歉难以详明。我正在字节跳动 <ins>Ads Infra 系统架构开发</ins>岗位实习。
 
 我对操作系统、深度学习、并行与分布计算等领域很感兴趣。欢迎与我交流，也请不吝赐教！
 
