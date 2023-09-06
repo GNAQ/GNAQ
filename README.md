@@ -10,6 +10,11 @@ I'm interested in software infrastructure, machine learning, big data and distri
 
 ---
 
+For details, what am I doing as a Bytedance Ads Infra feature engineer:
+
+[Introduction to Bytedance Ads Infra (Chinese Only)](https://shimo.im/docs/98rrrqhP9rDw8kjr/read)
+[Feature Platform in Meituan (Chinese Only)](https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html)
+
 Some little fragments I'm working on: [The Missing Semester - Chinese Version](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
 
 > - The Missing Semester is an open course offered by MIT, which mainly focuses on practical skills, engineering habits, effective tools and other critical capabilities for a new student working on computers. <ins>Getting hands dirty</ins> on practical work is as important as any other knowledge, like discrete maths, algorithms and formal languages.
