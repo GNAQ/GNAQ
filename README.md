@@ -4,15 +4,11 @@ Hi there. I'm GNAQ (read as "G-ko"). I'm using this ID on almost every network p
 
 I'm majoring in Software Engineering as an undergraduate at Harbin Institute of Technology. I was once a <ins>competitive programming contestant</ins> ([Code Archive](https://github.com/GNAQ/Algorithm-Contest-Archive) / [35th pl. CCPCWeihai](https://board.xcpcio.com/ccpc/8th/weihai?group=%E6%AD%A3%E5%BC%8F%E9%98%9F%E4%BC%8D)). It's a mixture of feelings for me to say that I didn't get notable awards in these algorithm contests. 
 
-Currently I'm working as an intern computational advertising feature engineer on the Ads Infra - MLDP team at Bytedance Beijing. I'm also trying to get familiar with basic reinforcement learning / deep reinforcement learning simulation and mathematical methods.
+Currently I'm taking part in a Machine Learning Data Platform (MLDP) project as an intern. I'm also trying to get familiar with basic reinforcement learning / deep reinforcement learning simulation and mathematical methods.
 
 I'm interested in software infrastructure, machine learning, big data and distributed computing. Feel free to discuss anything with me and please don't hesitate to deliver any feedback!
 
 ---
-
-For details, what am I doing as a Bytedance Ads Infra feature engineer:
-
-[Introduction to Bytedance Ads Infra (Chinese Only)](https://shimo.im/docs/98rrrqhP9rDw8kjr/read) | [Feature Platform in Meituan (Chinese Only)](https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html)
 
 Some little fragments I'm working on: [The Missing Semester - Chinese Version](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
 
