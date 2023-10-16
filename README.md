@@ -12,4 +12,4 @@ Feel free to discuss anything with me and please don't hesitate to deliver any f
 
 Some little fragments I'm working on: [The Missing Semester - Chinese Version](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
 
-I have a lot of life interests besides: [osu!](https://osu.ppy.sh/users/13200045) || [Bangumi](https://bgm.tv/user/gnaq). I also DIY hardware on my spare time.
+I have a lot of life interests besides: [osu!](https://osu.ppy.sh/users/13200045) || [Bangumi](https://bgm.tv/user/gnaq). I also DIY hardware in my spare time.
