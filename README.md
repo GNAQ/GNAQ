@@ -4,12 +4,14 @@ Hi there. I'm GNAQ (read as "G-ko"). I'm using this ID on almost every network p
 
 I'm majoring in Software Engineering as an undergraduate at Harbin Institute of Technology. I was once a <ins>competitive programming contestant</ins> ([Code Archive](https://github.com/GNAQ/Algorithm-Contest-Archive)). It's a mixture of feelings for me to say that I didn't get notable awards in these algorithm contests. 
 
-I'm interested in software infrastructure (particularly machine learning infrastructure), algorithms and reinforcement learning. I completed an internship as an Ads ML Infra developer at ByteDance Monetization, working on feature processing. Currently my work focuses on deep reinforcement learning, its application in robotics and its open-source software infrastructure.
+Currently my work focuses on deep reinforcement learning, its application in robotics and its open-source software infrastructure. I will do my best to contribute to the open source projects of the openEuler community in the coming months.
 
-Feel free to discuss anything with me and please don't hesitate to deliver any feedback!
+I'm interested in software system / infrastructure, algorithms and living a simple life. 
 
 ---
 
-Some little fragments I'm working on: [The Missing Semester - Chinese Version](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ...
+Feel free to discuss anything with me and please don't hesitate to deliver any feedback!
 
-I have a lot of life interests besides: [osu!](https://osu.ppy.sh/users/13200045) || [Bangumi](https://bgm.tv/user/gnaq).
+Some little fragments I'm working on: [The Missing Semester - Chinese Version](https://github.com/CN-missemi/CN_missemi) || [A gist of books]() || ... I have a lot of life interests besides: [osu!](https://osu.ppy.sh/users/13200045) || [Bangumi](https://bgm.tv/user/gnaq).
+
+My personal blog is coming soon.
