@@ -6,7 +6,7 @@ I'm majoring in Software Engineering as an undergraduate at Harbin Institute of 
 
 I was once an intern advertisement feature system engineer @Bytedance Ads ML Infra. I used to work for Jisuanke for a very long period as well.
 
-Currently my work focuses on deep reinforcement learning and its application in robot learning, as well as mathematics, algorithms, computer vision and building computing system with intelligence.
+Currently my work focuses on embodied intelligence, robotics-oriented computer vision and deep reinforcement learning. I'm willing to devote my time to learning mathematics and fancy algorithms as well.
 
 ---
 
