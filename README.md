@@ -2,7 +2,7 @@ Hi there. I'm GNAQ (often called "G-ko"), a name I use consistently across Inter
 
 I am a CS master student at Harbin Institute of Technology, advised by Prof. Wangmeng Zuo. I obtained my B.E. in software engineering from Harbin Institute of Technology. Previously, I participated in <ins>competitive programming contests</ins> without achieving notable awards. ([Code Archive](https://github.com/GNAQ/Algorithm-Contest-Archive))
 
-Previously, I interned as an advertisement feature system engineer at Bytedance Ads ML Infra. I used to be a TA for Jisuanke OI education for a very long period as well.
+Previously, I interned as an advertisement feature system engineer at Bytedance Ads ML Infra.
 
 Currently my work focuses on embodied intelligence, 3D computer vision and deep reinforcement learning. I am also committed to advancing my knowledge in mathematics and sophisticated algorithms.
 
