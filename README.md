@@ -1,6 +1,6 @@
-Hi there. I'm GNAQ (often called "G-ko"), a name I use consistently across Internet platforms. Contact: [GNAQ33@outlook.com](mailto:gnaq33@outlook.com)
+Hi there. I'm GNAQ (often called "G" or "G-ko") — a handle from random strings that I use consistently across the Internet. Contact: [GNAQ33@outlook.com](mailto:gnaq33@outlook.com)
 
-I am a PhD student of CS/AI at Harbin Institute of Technology, advised by Prof. Wangmeng Zuo. I obtained my B.E. in software engineering from Harbin Institute of Technology. Previously, I participated in <ins>competitive programming contests</ins> (without achieving notable awards). ([Code Archive](https://github.com/GNAQ/Algorithm-Contest-Archive))
+I'm a PhD student at Harbin Institute of Technology, where I also obtained my B.E. in Software Engineering. Previously, I dabbled in <ins>competitive programming</ins> (without notable awards). ([Code Archive](https://github.com/GNAQ/Algorithm-Contest-Archive))
 
-Currently my work focuses on 3D computer vision, embodied intelligence, large models, and other areas that benefits interactions between intelligence model, human and the physical world. I am also committed to advancing my knowledge in mathematics, sophisticated algorithms and representation learning.
+My current research focuses on 3D computer vision, embodied intelligence, and large models — broadly, enabling richer interactions between intelligent systems, humans, and the physical world. I also enjoy playing with mathematics, sophisticated algorithms, and representation learning.
 
